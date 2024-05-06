@@ -43,7 +43,7 @@ console.log(x);
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
 //myName = "Azamfiri";
-//console.log(myName);
+//console.log(myName); in questo caso sulla console mi esce un TypeError: valore assegnato ad una variabile costante
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
