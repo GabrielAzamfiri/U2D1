@@ -11,14 +11,18 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
-console.log("I principali datatype in JavaScript sono: String, Number e valore Boolean( true / false)");
-
+console.log("I principali datatype in JavaScript sono:");
+console.log("String (per scrivere testo)");
+console.log("Number (per numeri interi o con la virgola)");
+console.log("Boolean (per avere un valore vero o falso)");
+console.log("Null (per assegnare dei valori sconosciuti)");
+console.log("Undefined (per valori non assegnati)");
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
 const myName = "Gabriel";
-console.log(myName);
+console.log("Il mio nome è " + myName);
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
